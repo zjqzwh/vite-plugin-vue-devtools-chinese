@@ -1,12 +1,12 @@
-#  vite-plugin-vue-devtools-chinese
+#  vite-plugin-vue-devtools-cn
 
-> The vite-plugin-vue-devtools-chinese is derived from vite-plugin-vue-devtools.
+> The vite-plugin-vue-devtools-cn is derived from vite-plugin-vue-devtools.
 
 ## Installation
 
 ```sh
 
-npm add -D  vite-plugin-vue-devtools-chinese
+npm add -D  vite-plugin-vue-devtools-cn
 
 ```
 
@@ -16,7 +16,7 @@ npm add -D  vite-plugin-vue-devtools-chinese
 
 ```ts
 import { defineConfig } from 'vite'
-import VueDevTools from ' vite-plugin-vue-devtools-chinese'
+import VueDevTools from 'vite-plugin-vue-devtools-cn'
 
 export default defineConfig({
   plugins: [

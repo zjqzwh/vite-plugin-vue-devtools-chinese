@@ -1,9 +1,9 @@
 {
-  "name": "vite-plugin-vue-devtools-chinese",
+  "name": "vite-plugin-vue-devtools-cn",
   "type": "module",
   "version": "7.5.4",
-  "description": "A vite plugin for Vue DevTools",
-  "author": "webfansplz",
+  "description": "A vite plugin for Vue DevTools in chinese",
+  "author": "wh",
   "license": "MIT",
   "homepage": "https://github.com/zjqzwh/vite-plugin-vue-devtools-chinese#readme",
   "repository": {
@@ -18,7 +18,8 @@
     "vue-devtools",
     "vite-plugin",
     "vite-plugin-vue-devtools",
-    "dx"
+    "dx",
+	"vite-plugin-vue-devtools-cn",
   ],
   "exports": {
     ".": {
