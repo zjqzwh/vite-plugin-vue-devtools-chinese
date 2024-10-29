@@ -19,7 +19,7 @@
     "vite-plugin",
     "vite-plugin-vue-devtools",
     "dx",
-	"vite-plugin-vue-devtools-cn",
+    "vite-plugin-vue-devtools-cn"
   ],
   "exports": {
     ".": {
